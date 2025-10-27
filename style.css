@@ -1,0 +1,29 @@
+
+
+header {
+    background-color: darkseagreen;
+    height: 20%;
+}
+
+nav{
+    background-color: hotpink;
+    width: 15%;
+    height: 30%;
+    float: right;
+    color: silver;
+}
+
+main{
+    background-color: yellow;
+    height: 55%;
+}
+
+footer{
+    background-color: burlywood;
+    clear: both;
+    height: 15%;
+}
+
+header h1 {
+    color: coral;
+}
